@@ -1,0 +1,413 @@
+{
+  "site": {
+    "name": "Roll Anime to Fight! Wiki",
+    "shortName": "RATF",
+    "game": "Roll Anime to Fight!",
+    "platform": "Roblox",
+    "officialUrl": "https://www.roblox.com/games/107653945083776/Roll-Anime-to-Fight",
+    "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+    "legalNotice": "Unofficial fan guide for Roll Anime to Fight!."
+  },
+  "seo": {
+    "home": {
+      "title": "Roll Anime to Fight! Wiki - Codes, Guide & Tips",
+      "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+      "keywords": "Roll Anime to Fight!, Roll Anime to Fight! wiki, Roll Anime to Fight! guide, Roblox",
+      "ogTitle": "Roll Anime to Fight! Wiki",
+      "ogDescription": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+      "twitterTitle": "Roll Anime to Fight! Wiki",
+      "twitterDescription": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice."
+    }
+  },
+  "nav": {},
+  "common": {
+    "home": "Home",
+    "more": "More",
+    "playNow": "Play on Roblox",
+    "switchLanguage": "Switch language",
+    "switchTheme": "Switch theme",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "notFound": "Not found",
+    "notFoundDescription": "The page you are looking for does not exist.",
+    "backToHome": "Back to home",
+    "relatedArticles": "Related articles",
+    "readMore": "Read more",
+    "articlesComingSoon": "Articles coming soon"
+  },
+  "hero": {
+    "badge": "Roblox Anime Merge Defense Guide",
+    "title": "Roll Anime to Fight! Wiki",
+    "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+    "getFreeCodesCTA": "View Codes",
+    "playOnRobloxCTA": "Play on Roblox",
+    "ctas": [
+      {
+        "label": "Play on Roblox",
+        "href": "https://www.roblox.com/games/107653945083776/Roll-Anime-to-Fight"
+      },
+      {
+        "label": "View Codes",
+        "href": "#codes"
+      },
+      {
+        "label": "Beginner Guide",
+        "href": "#beginner-guide"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Platform",
+        "value": "Roblox"
+      },
+      {
+        "label": "Developer",
+        "value": "Another Slop"
+      },
+      {
+        "label": "Genre",
+        "value": "Simulation / Tycoon"
+      },
+      {
+        "label": "Max Players",
+        "value": "6"
+      },
+      {
+        "label": "Visits",
+        "value": "536,924+"
+      },
+      {
+        "label": "Updated",
+        "value": "2026-07-15"
+      }
+    ]
+  },
+  "video": {
+    "id": "6vIJ3NjxjT8",
+    "title": "Playing Roll Anime To Fight Roblox"
+  },
+  "gameFeature": {
+    "title": "Roll Anime to Fight! Gameplay",
+    "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice."
+  },
+  "tools": {
+    "title": "Roll Anime to Fight!",
+    "titleHighlight": "Guide Modules",
+    "subtitle": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+    "cards": []
+  },
+  "modules": {},
+  "faq": {
+    "title": "Roll Anime to Fight! FAQ",
+    "subtitle": "Common questions about Roll Anime to Fight!.",
+    "items": [
+      {
+        "question": "What is Roll Anime to Fight!?",
+        "answer": "Roll Anime to Fight! is a Roblox anime simulator about rolling fighters, merging units, building teams, and surviving waves."
+      },
+      {
+        "question": "Are there Roll Anime to Fight! codes?",
+        "answer": "No official active code was verified in the current source package, so this site avoids fake code claims until an official source confirms one."
+      },
+      {
+        "question": "Is this site safe for scripts or exploits?",
+        "answer": "No. This site covers normal gameplay only and excludes scripts, executors, keyless tools, auto-farm routes, and exploit advice."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start reading Roll Anime to Fight! guides",
+    "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+    "exploreGuides": "Explore modules",
+    "joinGame": "Play on Roblox"
+  },
+  "footer": {
+    "title": "Roll Anime to Fight! Wiki",
+    "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+    "resources": "Resources",
+    "community": "Community",
+    "legal": "Legal",
+    "twitter": "Roblox",
+    "steam": "Roblox",
+    "steamGuide": "Official Game",
+    "itchio": "Creator Group",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Roll Anime to Fight! Wiki. Unofficial fan resource.",
+    "disclaimer": "Not affiliated with Another Slop or Roblox Corporation."
+  },
+  "pages": {},
+  "home": {
+    "latest": "Latest Guides",
+    "categories": "Guide Modules",
+    "all": "All Articles",
+    "read": "Read guide",
+    "firstArticle": "/",
+    "startTitle": "Start with Roll Anime to Fight!",
+    "start": [
+      {
+        "title": "Roll Anime to Fight! Beginner Guide",
+        "description": "Learn the opening loop for rolling, merging, team building, and wave progression."
+      },
+      {
+        "title": "Roll Anime to Fight! Codes",
+        "description": "Check the current verified code status without fake code lists or exploit pages."
+      },
+      {
+        "title": "Roll Anime to Fight! Team Guide",
+        "description": "Build stronger teams by understanding fighters, merges, and wave pressure."
+      },
+      {
+        "title": "Roll Anime to Fight! Mutations",
+        "description": "Track rare anime, mutations, and collection goals without inventing rates."
+      }
+    ],
+    "modulesTitle": "Roll Anime to Fight! Guide Modules",
+    "modulesDescription": "Use these sections for safe Roblox progression, verified information, and update-aware guide planning.",
+    "modules": [
+      {
+        "id": "codes",
+        "name": "Roll Anime to Fight! Codes",
+        "displayType": "code-cards",
+        "description": "Display verified code status and the source rules used before any code is listed.",
+        "highlights": [
+          {
+            "label": "Code Status",
+            "detail": "No official active code verified yet",
+            "badge": "Pending"
+          },
+          {
+            "label": "Source Rule",
+            "detail": "Roblox page, official group, or developer-controlled source only",
+            "badge": "Required"
+          },
+          {
+            "label": "Safety",
+            "detail": "No script, executor, keyless, pastebin, or auto-farm content",
+            "badge": "Required"
+          },
+          {
+            "label": "Update Plan",
+            "detail": "Recheck after Roblox updates",
+            "badge": "Active"
+          }
+        ]
+      },
+      {
+        "id": "beginner-guide",
+        "name": "Roll Anime to Fight! Beginner Guide",
+        "displayType": "step-by-step",
+        "description": "Understand the safe starter route for rolling, merging, teams, and waves.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Roll for anime fighters"
+          },
+          {
+            "label": "2",
+            "detail": "Merge animes to level them up"
+          },
+          {
+            "label": "3",
+            "detail": "Build the strongest team possible"
+          },
+          {
+            "label": "4",
+            "detail": "Survive enemy waves and push checkpoints"
+          }
+        ]
+      },
+      {
+        "id": "anime-fighters",
+        "name": "Roll Anime to Fight! Anime Fighters",
+        "displayType": "card-list",
+        "description": "Connect fighters, rare anime, mutations, and team performance.",
+        "highlights": [
+          {
+            "label": "Fighters",
+            "detail": "Players roll for powerful anime fighters"
+          },
+          {
+            "label": "Rare Anime",
+            "detail": "Collect rare anime fighters"
+          },
+          {
+            "label": "Mutations",
+            "detail": "Use mutations as collection goals"
+          },
+          {
+            "label": "Team Role",
+            "detail": "Evaluate fighters by team performance"
+          }
+        ]
+      },
+      {
+        "id": "team-guide",
+        "name": "Roll Anime to Fight! Team Guide",
+        "displayType": "card-list",
+        "description": "Plan stronger teams around merges, waves, and rewards.",
+        "highlights": [
+          {
+            "label": "Goal",
+            "detail": "Build the strongest team possible"
+          },
+          {
+            "label": "Growth",
+            "detail": "Merge fighters to increase power"
+          },
+          {
+            "label": "Pressure",
+            "detail": "Teams must survive endless enemy waves"
+          },
+          {
+            "label": "Rewards",
+            "detail": "Higher checkpoints give larger rewards"
+          }
+        ]
+      },
+      {
+        "id": "merge-guide",
+        "name": "Roll Anime to Fight! Merge Guide",
+        "displayType": "step-by-step",
+        "description": "Use merges deliberately instead of relying on unsafe automation advice.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Roll fighters before choosing merge targets"
+          },
+          {
+            "label": "2",
+            "detail": "Merge animes to level them up"
+          },
+          {
+            "label": "3",
+            "detail": "Keep team strength aligned with wave progress"
+          },
+          {
+            "label": "4",
+            "detail": "Avoid unsafe auto-merge or exploit advice"
+          }
+        ]
+      },
+      {
+        "id": "waves-checkpoints",
+        "name": "Roll Anime to Fight! Waves and Checkpoints",
+        "displayType": "step-by-step",
+        "description": "Track wave survival, checkpoints, and progression rewards.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Survive endless enemy waves"
+          },
+          {
+            "label": "2",
+            "detail": "Reach higher checkpoints"
+          },
+          {
+            "label": "3",
+            "detail": "Earn rewards from progression"
+          },
+          {
+            "label": "4",
+            "detail": "Avoid inventing an unverified final wave cap"
+          }
+        ]
+      },
+      {
+        "id": "mutations",
+        "name": "Roll Anime to Fight! Mutations and Rarity",
+        "displayType": "card-list",
+        "description": "Explain rare anime and mutation goals without fabricated odds.",
+        "highlights": [
+          {
+            "label": "Rare Anime",
+            "detail": "Collect rare anime fighters"
+          },
+          {
+            "label": "Mutations",
+            "detail": "Treat mutations as progression targets"
+          },
+          {
+            "label": "Rarity",
+            "detail": "Do not invent exact rarity values"
+          },
+          {
+            "label": "Scope",
+            "detail": "Safe progression only"
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "name": "Roll Anime to Fight! Updates",
+        "displayType": "card-list",
+        "description": "Watch game changes that can affect codes, fighters, mutations, and checkpoints.",
+        "highlights": [
+          {
+            "label": "Created",
+            "detail": "2026-06-10"
+          },
+          {
+            "label": "Updated",
+            "detail": "2026-07-15"
+          },
+          {
+            "label": "Developer",
+            "detail": "Another Slop"
+          },
+          {
+            "label": "Watchlist",
+            "detail": "Codes, fighters, mutations, checkpoints"
+          }
+        ]
+      }
+    ],
+    "aboutTitle": "What is Roll Anime to Fight!?",
+    "about": [
+      "Roll Anime to Fight! is a Roblox anime simulator where players roll for fighters, merge units to improve their power, and send a team into enemy waves.",
+      "Progress depends on pulls, team strength, merges, mutations, and wave rewards, so this guide hub separates confirmed codes and safe gameplay advice from unsafe scripts, exploits, and fake code pages."
+    ],
+    "facts": [
+      {
+        "label": "Platform",
+        "value": "Roblox"
+      },
+      {
+        "label": "Developer",
+        "value": "Another Slop"
+      },
+      {
+        "label": "Genre",
+        "value": "Simulation / Tycoon"
+      },
+      {
+        "label": "Max Players",
+        "value": "6"
+      },
+      {
+        "label": "Visits",
+        "value": "536,924+"
+      },
+      {
+        "label": "Updated",
+        "value": "2026-07-15"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Roll Anime to Fight!?",
+        "answer": "Roll Anime to Fight! is a Roblox anime simulator about rolling fighters, merging units, building teams, and surviving waves."
+      },
+      {
+        "question": "Are there Roll Anime to Fight! codes?",
+        "answer": "No official active code was verified in the current source package, so this site avoids fake code claims until an official source confirms one."
+      },
+      {
+        "question": "Is this site safe for scripts or exploits?",
+        "answer": "No. This site covers normal gameplay only and excludes scripts, executors, keyless tools, auto-farm routes, and exploit advice."
+      }
+    ]
+  }
+}

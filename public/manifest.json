@@ -1,0 +1,39 @@
+{
+  "name": "Roll Anime to Fight! Wiki",
+  "short_name": "RATF",
+  "description": "Roll for anime fighters, merge them into stronger units, and build a team that can survive endless enemy waves. Track codes, starter priorities, teams, mutations, checkpoints, and updates without unsafe scripts or exploit advice.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#dc2626",
+  "background_color": "#101319",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
