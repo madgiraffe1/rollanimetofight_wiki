@@ -1,3 +1,130 @@
 {
-  "en": {}
+  "en": {
+    "catches": [
+      {
+        "slug": "roll-anime-to-fight-anime-fighters",
+        "file": "roll-anime-to-fight-anime-fighters"
+      },
+      {
+        "slug": "roll-anime-to-fight-fighter-collection",
+        "file": "roll-anime-to-fight-fighter-collection"
+      },
+      {
+        "slug": "roll-anime-to-fight-mutations",
+        "file": "roll-anime-to-fight-mutations"
+      },
+      {
+        "slug": "roll-anime-to-fight-rare-anime",
+        "file": "roll-anime-to-fight-rare-anime"
+      }
+    ],
+    "download": [
+      {
+        "slug": "roll-anime-to-fight-browser-access",
+        "file": "roll-anime-to-fight-browser-access"
+      },
+      {
+        "slug": "roll-anime-to-fight-mobile-access",
+        "file": "roll-anime-to-fight-mobile-access"
+      },
+      {
+        "slug": "roll-anime-to-fight-official-roblox-page",
+        "file": "roll-anime-to-fight-official-roblox-page"
+      },
+      {
+        "slug": "roll-anime-to-fight-safe-play-link",
+        "file": "roll-anime-to-fight-safe-play-link"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "roll-anime-to-fight-fighter-slots",
+        "file": "roll-anime-to-fight-fighter-slots"
+      },
+      {
+        "slug": "roll-anime-to-fight-merge-priorities",
+        "file": "roll-anime-to-fight-merge-priorities"
+      },
+      {
+        "slug": "roll-anime-to-fight-power-planning",
+        "file": "roll-anime-to-fight-power-planning"
+      },
+      {
+        "slug": "roll-anime-to-fight-team-upgrades",
+        "file": "roll-anime-to-fight-team-upgrades"
+      }
+    ],
+    "gallery": [
+      {
+        "slug": "roll-anime-to-fight-fighter-showcase",
+        "file": "roll-anime-to-fight-fighter-showcase"
+      },
+      {
+        "slug": "roll-anime-to-fight-game-images",
+        "file": "roll-anime-to-fight-game-images"
+      },
+      {
+        "slug": "roll-anime-to-fight-update-screenshots",
+        "file": "roll-anime-to-fight-update-screenshots"
+      },
+      {
+        "slug": "roll-anime-to-fight-video-guide",
+        "file": "roll-anime-to-fight-video-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "roll-anime-to-fight-beginner-guide",
+        "file": "roll-anime-to-fight-beginner-guide"
+      },
+      {
+        "slug": "roll-anime-to-fight-daily-routine",
+        "file": "roll-anime-to-fight-daily-routine"
+      },
+      {
+        "slug": "roll-anime-to-fight-how-to-play",
+        "file": "roll-anime-to-fight-how-to-play"
+      },
+      {
+        "slug": "roll-anime-to-fight-progression-tips",
+        "file": "roll-anime-to-fight-progression-tips"
+      }
+    ],
+    "version": [
+      {
+        "slug": "roll-anime-to-fight-code-watchlist",
+        "file": "roll-anime-to-fight-code-watchlist"
+      },
+      {
+        "slug": "roll-anime-to-fight-new-fighters",
+        "file": "roll-anime-to-fight-new-fighters"
+      },
+      {
+        "slug": "roll-anime-to-fight-patch-notes",
+        "file": "roll-anime-to-fight-patch-notes"
+      },
+      {
+        "slug": "roll-anime-to-fight-updates",
+        "file": "roll-anime-to-fight-updates"
+      }
+    ],
+    "walkthrough": [
+      {
+        "slug": "roll-anime-to-fight-checkpoint-route",
+        "file": "roll-anime-to-fight-checkpoint-route"
+      },
+      {
+        "slug": "roll-anime-to-fight-merge-route",
+        "file": "roll-anime-to-fight-merge-route"
+      },
+      {
+        "slug": "roll-anime-to-fight-reward-loop",
+        "file": "roll-anime-to-fight-reward-loop"
+      },
+      {
+        "slug": "roll-anime-to-fight-wave-walkthrough",
+        "file": "roll-anime-to-fight-wave-walkthrough"
+      }
+    ]
+  }
 }
