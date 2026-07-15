@@ -18,5 +18,35 @@
     "manifestGenerator": "scripts/generate-content-manifest.mjs",
     "minimumArticlesPerCategory": 1,
     "policy": "Preserve template category topology, dropdown navigation, mobile expandable navigation, category pages, article detail pages, and content manifest. Replace only project-specific content."
+  },
+  "theme": {
+    "required": true,
+    "source": "Project branding from official Roblox icon red palette",
+    "light": {
+      "primary": "356 72% 45%",
+      "accent": "356 82% 48%",
+      "ring": "356 72% 45%",
+      "navTheme": "356 72% 45%",
+      "navThemeLight": "356 82% 48%"
+    },
+    "dark": {
+      "primary": "356 82% 55%",
+      "accent": "356 90% 68%",
+      "ring": "356 82% 55%",
+      "navTheme": "356 82% 55%",
+      "navThemeLight": "356 90% 68%"
+    },
+    "tokenPolicy": "All brand/accent UI uses --nav-theme, --nav-theme-light, --primary, --accent, or --ring. Hardcoded default blue/cyan classes are forbidden unless recorded as semantic status colors.",
+    "semanticExceptions": [
+      "warning",
+      "success",
+      "destructive",
+      "neutral-muted"
+    ],
+    "inspectedSurfaces": [
+      "homepage light/dark",
+      "category page light/dark",
+      "article page light/dark"
+    ]
   }
 }
